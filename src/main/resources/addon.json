@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "NovusMC Addon",
+  "mainClass": "de.novusmc.labymod.NovusLabyModAddon",
+  "description": "Offizielles NovusMC.de LabyMod Addon",
+  "author": "pauhull",
+  "icon": "http://pauhull.de/icon.png",
+  "category": 3,
+  "version": 1
+}
